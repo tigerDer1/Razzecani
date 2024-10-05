@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "nome": "gianpaolo",
+        "razza": "golden retriever"
+    },
+    {
+        "id": 2,
+        "nome": "gainfrancesco",
+        "razza": "pitbull"
+    }
+]
